@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TimUocChungLonNhat/1.0.0": {
+        "runtime": {
+          "TimUocChungLonNhat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TimUocChungLonNhat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

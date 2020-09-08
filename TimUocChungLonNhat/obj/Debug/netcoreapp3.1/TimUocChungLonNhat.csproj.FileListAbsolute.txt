@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\TimUocChungLonNhat\TimUocChungLonNhat\bin\Debug\netcoreapp3.1\TimUocChungLonNhat.exe
+C:\Users\PC\source\repos\TimUocChungLonNhat\TimUocChungLonNhat\bin\Debug\netcoreapp3.1\TimUocChungLonNhat.deps.json
+C:\Users\PC\source\repos\TimUocChungLonNhat\TimUocChungLonNhat\bin\Debug\netcoreapp3.1\TimUocChungLonNhat.runtimeconfig.json
+C:\Users\PC\source\repos\TimUocChungLonNhat\TimUocChungLonNhat\bin\Debug\netcoreapp3.1\TimUocChungLonNhat.runtimeconfig.dev.json
+C:\Users\PC\source\repos\TimUocChungLonNhat\TimUocChungLonNhat\bin\Debug\netcoreapp3.1\TimUocChungLonNhat.dll
+C:\Users\PC\source\repos\TimUocChungLonNhat\TimUocChungLonNhat\bin\Debug\netcoreapp3.1\TimUocChungLonNhat.pdb
+C:\Users\PC\source\repos\TimUocChungLonNhat\TimUocChungLonNhat\obj\Debug\netcoreapp3.1\TimUocChungLonNhat.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\TimUocChungLonNhat\TimUocChungLonNhat\obj\Debug\netcoreapp3.1\TimUocChungLonNhat.AssemblyInfo.cs
+C:\Users\PC\source\repos\TimUocChungLonNhat\TimUocChungLonNhat\obj\Debug\netcoreapp3.1\TimUocChungLonNhat.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\TimUocChungLonNhat\TimUocChungLonNhat\obj\Debug\netcoreapp3.1\TimUocChungLonNhat.dll
+C:\Users\PC\source\repos\TimUocChungLonNhat\TimUocChungLonNhat\obj\Debug\netcoreapp3.1\TimUocChungLonNhat.pdb
+C:\Users\PC\source\repos\TimUocChungLonNhat\TimUocChungLonNhat\obj\Debug\netcoreapp3.1\TimUocChungLonNhat.genruntimeconfig.cache
