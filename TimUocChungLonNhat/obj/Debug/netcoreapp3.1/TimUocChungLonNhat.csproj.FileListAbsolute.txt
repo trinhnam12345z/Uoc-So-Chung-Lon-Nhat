@@ -10,3 +10,16 @@ C:\Users\PC\source\repos\TimUocChungLonNhat\TimUocChungLonNhat\obj\Debug\netcore
 C:\Users\PC\source\repos\TimUocChungLonNhat\TimUocChungLonNhat\obj\Debug\netcoreapp3.1\TimUocChungLonNhat.dll
 C:\Users\PC\source\repos\TimUocChungLonNhat\TimUocChungLonNhat\obj\Debug\netcoreapp3.1\TimUocChungLonNhat.pdb
 C:\Users\PC\source\repos\TimUocChungLonNhat\TimUocChungLonNhat\obj\Debug\netcoreapp3.1\TimUocChungLonNhat.genruntimeconfig.cache
+E:\C#\Uoc-So-Chung-Lon-Nhat\TimUocChungLonNhat\bin\Debug\netcoreapp3.1\TimUocChungLonNhat.exe
+E:\C#\Uoc-So-Chung-Lon-Nhat\TimUocChungLonNhat\bin\Debug\netcoreapp3.1\TimUocChungLonNhat.deps.json
+E:\C#\Uoc-So-Chung-Lon-Nhat\TimUocChungLonNhat\bin\Debug\netcoreapp3.1\TimUocChungLonNhat.runtimeconfig.json
+E:\C#\Uoc-So-Chung-Lon-Nhat\TimUocChungLonNhat\bin\Debug\netcoreapp3.1\TimUocChungLonNhat.runtimeconfig.dev.json
+E:\C#\Uoc-So-Chung-Lon-Nhat\TimUocChungLonNhat\bin\Debug\netcoreapp3.1\TimUocChungLonNhat.dll
+E:\C#\Uoc-So-Chung-Lon-Nhat\TimUocChungLonNhat\bin\Debug\netcoreapp3.1\TimUocChungLonNhat.pdb
+E:\C#\Uoc-So-Chung-Lon-Nhat\TimUocChungLonNhat\obj\Debug\netcoreapp3.1\TimUocChungLonNhat.csprojAssemblyReference.cache
+E:\C#\Uoc-So-Chung-Lon-Nhat\TimUocChungLonNhat\obj\Debug\netcoreapp3.1\TimUocChungLonNhat.AssemblyInfoInputs.cache
+E:\C#\Uoc-So-Chung-Lon-Nhat\TimUocChungLonNhat\obj\Debug\netcoreapp3.1\TimUocChungLonNhat.AssemblyInfo.cs
+E:\C#\Uoc-So-Chung-Lon-Nhat\TimUocChungLonNhat\obj\Debug\netcoreapp3.1\TimUocChungLonNhat.csproj.CoreCompileInputs.cache
+E:\C#\Uoc-So-Chung-Lon-Nhat\TimUocChungLonNhat\obj\Debug\netcoreapp3.1\TimUocChungLonNhat.dll
+E:\C#\Uoc-So-Chung-Lon-Nhat\TimUocChungLonNhat\obj\Debug\netcoreapp3.1\TimUocChungLonNhat.pdb
+E:\C#\Uoc-So-Chung-Lon-Nhat\TimUocChungLonNhat\obj\Debug\netcoreapp3.1\TimUocChungLonNhat.genruntimeconfig.cache

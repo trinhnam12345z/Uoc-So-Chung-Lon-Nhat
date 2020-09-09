@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\source\\repos\\TimUocChungLonNhat\\TimUocChungLonNhat\\TimUocChungLonNhat.csproj": {}
+    "E:\\C#\\Uoc-So-Chung-Lon-Nhat\\TimUocChungLonNhat\\TimUocChungLonNhat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\source\\repos\\TimUocChungLonNhat\\TimUocChungLonNhat\\TimUocChungLonNhat.csproj": {
+    "E:\\C#\\Uoc-So-Chung-Lon-Nhat\\TimUocChungLonNhat\\TimUocChungLonNhat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\TimUocChungLonNhat\\TimUocChungLonNhat\\TimUocChungLonNhat.csproj",
+        "projectUniqueName": "E:\\C#\\Uoc-So-Chung-Lon-Nhat\\TimUocChungLonNhat\\TimUocChungLonNhat.csproj",
         "projectName": "TimUocChungLonNhat",
-        "projectPath": "C:\\Users\\PC\\source\\repos\\TimUocChungLonNhat\\TimUocChungLonNhat\\TimUocChungLonNhat.csproj",
+        "projectPath": "E:\\C#\\Uoc-So-Chung-Lon-Nhat\\TimUocChungLonNhat\\TimUocChungLonNhat.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\source\\repos\\TimUocChungLonNhat\\TimUocChungLonNhat\\obj\\",
+        "outputPath": "E:\\C#\\Uoc-So-Chung-Lon-Nhat\\TimUocChungLonNhat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
